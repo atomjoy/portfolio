@@ -1,2 +1,2 @@
-# portfolio
-Portfolio UI/UX Samples (old).
+# Portfolio
+Portfolio UI/UX Samples (old page screenshots).
